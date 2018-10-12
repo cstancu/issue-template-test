@@ -4,7 +4,7 @@ about: 'Report issue with native-image toool. '
 
 ---
 
-**Describe the bug**
+**Bug description**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -16,4 +16,5 @@ A clear and concise description of what you expected to happen.
 **Additional context**
 Add any other context about the problem here.
 
-** GraalVM version (e.g. `native-image --version`)
+** GraalVM version **
+For example the output of `native-image --version`
