@@ -1,11 +1,11 @@
 ---
 name: native-image issue
-about: 'Report an issue with the native-image toool. '
+about: Report an issue with the native-image tool.
 
 ---
 
 **Bug description**
-A clear and concise description of what the bug is. Is it a *run time* or *image build time* issue?
+A clear and concise description of what the bug is. Is it a run time or image build time issue?
 
 **Steps to reproduce**
 Minimal yet complete reproducer code (or URL to code) with complete instructions to reproduce.
@@ -17,4 +17,4 @@ A clear and concise description of what you expected to happen.
 Add any other context about the problem here.
 
 **GraalVM version**
-For example the output of `native-image --version`
+For example the output of `native-image --version`.
