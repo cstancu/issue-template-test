@@ -1,6 +1,6 @@
 ---
 name: native-image issue
-about: 'Report issue with native-image toool. '
+about: 'Report issue with the `native-image` toool. '
 
 ---
 
